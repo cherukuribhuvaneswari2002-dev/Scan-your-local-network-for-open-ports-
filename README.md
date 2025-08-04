@@ -17,7 +17,9 @@ Found open ports on host 192.168.1.1:
 80/tcp HTTP
 
 -->Captured network traffic with Wireshark and analyzed Nmap scan packets using filters.
+
 -->Researched common vulnerabilities for detected services (e.g., FTP credential leakage, SSH brute-force risk, DNS amplification, HTTP XSS).
+
 -->Summarized potential risks and mitigation strategies.
 
 **Key Tools**
@@ -26,4 +28,5 @@ Wireshark: Packet analyzer for inspecting scan traffic and identifying service r
 
 **Output**
 -->Nmap scan results saved in text format.
+
 -->Documented observations, possible vulnerabilities, and mitigation guidance.
