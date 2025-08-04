@@ -2,11 +2,9 @@
 This Repo demonstrates how to perform a network reconnaissance using Nmap and analyze the results with Wireshark.
 
 **Tasks Performed**
-Installed Nmap and Wireshark on local system.
-
-Identified the local IP range (192.168.1.0/24) for scanning.
-
-Conducted a TCP SYN scan using Nmap to discover active hosts and open ports.
+1. Installed Nmap and Wireshark on local system.
+2. Identified the local IP range (192.168.1.0/24) for scanning.
+3. Conducted a TCP SYN scan using Nmap to discover active hosts and open ports.
 
 Found open ports on host 192.168.1.1:
 
