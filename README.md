@@ -1,7 +1,7 @@
 # Scan-your-local-network-for-open-ports-
 This Repo demonstrates how to perform a network reconnaissance using Nmap and analyze the results with Wireshark.
 
-🔧 Tasks Performed
+**Tasks Performed**
 Installed Nmap and Wireshark on local system.
 
 Identified the local IP range (192.168.1.0/24) for scanning.
@@ -24,12 +24,12 @@ Researched common vulnerabilities for detected services (e.g., FTP credential le
 
 Summarized potential risks and mitigation strategies.
 
-📊 Key Tools
+**Key Tools**
 Nmap: Network scanner for port and service detection.
 
 Wireshark: Packet analyzer for inspecting scan traffic and identifying service responses.
 
-📁 Output
+**Output**
 Nmap scan results saved in text format.
 
 Documented observations, possible vulnerabilities, and mitigation guidance.
