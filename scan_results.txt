@@ -1,0 +1,21 @@
+# Nmap 7.94SVN scan initiated Mon Aug  4 16:39:37 2025 as: /usr/lib/nmap/nmap -sS -oN scan_results.txt 192.168.1.1/24
+Nmap scan report for EARTH-1010.bbrouter (192.168.1.1)
+Host is up (0.015s latency).
+Not shown: 996 closed tcp ports (reset)
+PORT   STATE SERVICE
+21/tcp open  ftp
+22/tcp open  ssh
+53/tcp open  domain
+80/tcp open  http
+
+Nmap scan report for Redmi-Note-10S.bbrouter (192.168.1.2)
+Host is up (0.012s latency).
+All 1000 scanned ports on Redmi-Note-10S.bbrouter (192.168.1.2) are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+
+Nmap scan report for Redmi-Note-14-5G.bbrouter (192.168.1.10)
+Host is up (0.012s latency).
+All 1000 scanned ports on Redmi-Note-14-5G.bbrouter (192.168.1.10) are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+
+# Nmap done at Mon Aug  4 16:39:56 2025 -- 256 IP addresses (3 hosts up) scanned in 18.46 seconds
